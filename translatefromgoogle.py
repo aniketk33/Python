@@ -21,7 +21,6 @@ print(buckets)
 # for language in languages:
 #     print(f"{language.language_code}\t{language.display_name}")
 
-# client = translate.Translation("AIzaSyAq6P_G2iQHgIwFwN3rKsIwTpNl5fIw3ck")
 # response = client.get_supported_languages(display_language_code="en")
 # languages = response.languages
 
