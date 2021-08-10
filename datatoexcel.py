@@ -1,4 +1,3 @@
-from os import path
 from googletrans import Translator, constants
 from openpyxl import load_workbook
 
